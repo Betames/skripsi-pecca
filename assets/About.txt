@@ -1,0 +1,11 @@
+Developed by Slamet Sumasto, as one of the requirement for bachelor's degree in Computer Science and Mathematics study program of Binus University.
+
+This application was developed on Windows 10 by using Python 3.8.2 with collection of libraries such as tinyec and tkinter. This application was tested on i7-4720HQ CPU @2.60GHz with 8GB of RAM.
+
+Texts are widely used in our daily life and one of many ways to communicate with others. Not only common matters, sometimes texts can contains sensitive information such as password, PIN, code, and many more. Therefore the security system to secure these texts is important. To secure text, text can be encrypted to meaningless text. To get meaningful text, we can decrypt the encrypted text.
+
+In this application encryption and decryption use two different keys:
+- public key (all people know) to encrypt
+- private key (least people know) to decrypt
+
+The purpose of this application is to analyze the result of encryption and decryption of Elliptic Curve Cryptography algorithm and Paillier Cryptosystem algorithm to text.

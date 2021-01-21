@@ -1,0 +1,17 @@
+Here is the procedure to use this application:
+
+1. Click "Pages" menu to choose which algorithm that you want to use for encryption and decryption.
+
+2. After choose the algorithm, the system will navigate you to encryption and decryption page of the algorithm.
+
+3. Text file's format that can be use in this application is .txt.
+
+4. Before doing encryption or decryption, you have to input text file first by click "Input Text" button.
+
+5. In Elliptic Curve Cryptography page, before doing encryption or decryption, you have to input a key field first. This field must be filled by integer between 0 and 65538. Same key is used for encryption and decryption.
+
+6. After succeeding the encryption or decryption process, you can save the result text.
+
+7. When you choose "Others" menu, you can choose:
+   a} "About" submenu to view About page
+   b} "Help" submenu to view Help page
